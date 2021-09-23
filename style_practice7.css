@@ -1,0 +1,78 @@
+/*
+div p {
+	color: red;
+} 
+
+
+div h2	{
+	color: blue;
+}
+
+
+#test p	{
+	color: orange;
+}
+
+#test h2 {
+	color: green;
+}
+
+.bbb {
+	color: yellow;
+	font-weight: bold;
+}
+#test .bbb {
+	font-style: italic;
+}
+.bbb h2 {
+	test-indent: 50px;
+	color: purple;
+}
+
+#test p.bbb p.xxx {
+	font-weight: bold;
+	color: red;
+}
+
+
+.bbb.xxx {
+	font-weight: bold;
+	font-style: italic;
+} 
+
+#test p.bbb h2.xxx {
+	color: red;
+}
+*/
+
+/*
+#test h2.bbb {
+	color: red;
+}
+
+#test p.xxx {
+	color: blue;
+}
+*/
+
+/*
+.fff p {
+	color: red;		14 номер. ИЗ класса
+}
+
+p.fff {
+	color: deepskyblue;
+}
+
+*/
+
+/*
+.bbb .fff {
+	color: red;
+}
+*/
+/*
+.fff h2.bbb {
+	color: red;
+}
+*/
