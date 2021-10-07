@@ -20,3 +20,27 @@ body {
 	border-radius: 28px;
 	
 }
+
+.social {
+	background-color: #40bf8f;
+	padding: 15px;
+	margin: 20px;
+	border-radius: 15px;
+	border: 5px solid #2655d9;
+}
+
+.container {
+	max-width: 750px;
+	min-width: 500px;
+	margin: auto;
+
+}
+
+.bottom-space {
+margin-bottom: 500px;
+}
+
+.bottom-space > div {
+background: #000;
+height: 200px;
+}
